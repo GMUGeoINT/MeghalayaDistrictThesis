@@ -1,7 +1,7 @@
 # MeghalayaDistrictThesis
+Embedded Finalized Visualization Tool: https://gmugeoint.github.io/MeghalayaDistrictThesis/
 India’s state of Meghalaya pursued its 12th, and final, Five Year Plan for state-wide economic development from 2012 – 2017 before following the central government’s directive for all Indian government bodies to cease formalized economic planning. The state set proposed metric goals for the plan’s completion, but there is no apparent public retrospective which analyzes how close the state came to achieving them. Since all goals were set at the state level, there is also a significant gap in understanding how each of Meghalaya’s 11 districts contributed to meeting metric goals. Furthermore, none of this already public data has been aggregated in a way which permits simple accessibility or analysis, especially at the district level. This thesis focuses uses geospatial data visualization, geography-driven analytics, and creating publicly available datasets. It explores an analysis of district and state level metric actuals against goals and their trends over the course of the 12th Five Year Plan. It demonstrates the creation process of a publicly available visualization tool and its associated dataset that includes the first correctly updated district-level map of Meghalaya.
 
-Embedded Finalized Visualization Tool: https://gmugeoint.github.io/MeghalayaDistrictThesis/
 <iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=16670863-ffdd-4c1f-9a59-7f3263652084&autoAuth=true&ctid=d73a39db-6eda-495d-8000-7579f56d68b7&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 FOLDER GUIDE:
